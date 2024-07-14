@@ -1,4 +1,4 @@
-# United Remote Backend Php Technical Test
+Php Technical Test
 The goal of this test is to evaluate your ability in enhancing existing code as well as debugging and fixing bugs.
 
 
